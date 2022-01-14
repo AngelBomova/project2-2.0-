@@ -1,0 +1,214 @@
+body{
+  text-align: center;
+background-color: gray;
+}
+h1 {color:rgb(71, 190, 255); background-color: gold; font-size:48px; text-shadow: 2px 2px 5px red;
+}
+h2 {color:rgb(134, 12, 20)
+; background-color: #ffff1b; font-size:32px;}
+h2{
+  text-align: left;
+}
+.thinkin:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.bananaa:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+h3 {color:hsl(50, 94%, 65%); background-color: #8825ff; font-size:24px;}
+h3{
+  text-align: left;
+}
+h4 {color:blue; background-color: gold; font-size:48px;}
+h5 {color:blue; background-color: white; font-size:48px;}
+.cat2text {color:blue; background-color: white; font-size:48px;}
+.hw {color:black; background-color: orange; font-size:24px;}
+.dog {
+  background-image: url("http://assets.stickpng.com/thumbs/5845e614fb0b0755fa99d7e8.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: scroll;
+}
+.hone
+{border-style: solid; border-bottom-style: hidden; border-radius: 30px; border-color: black;
+}
+.hone
+{
+ font-family: "Brush Script MT";
+}
+.hone {
+  height: 75px;
+  width: 38%;
+}
+
+.htwo
+{border-style: dashed; border-color: rgb(71, 190, 255);
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;}
+.htwo {
+   font-family: Georgia, serif; word-spacing: 10px;
+}
+.htwo {
+  height: 300px;
+  width: 100%;
+}
+.hthree
+{border-style: solid; border-bottom-style: dotted; border-radius: 15px; border-color: blue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.hthree{
+  font-family: Times New Roman, serif; word-spacing: 5px;
+}
+
+.hfour
+{border-style: solid; border-radius: 15px; border-color: blue;
+    padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 60px;
+}
+
+/* unvisited link */
+a:link {
+  color: crimson;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+.load {color: white; background-color: Blue; font-size:50px;}
+.material-icons { color:white;}
+.material-icons {padding-right: 450px}
+.list {
+  list-style-type: upper-roman;
+}
+.table1 {
+color:Black;
+background-color: grey}
+th {
+  height: 50px;
+}
+.table1 {width: 100%;}
+table, th, td {
+  border: 1px solid black;
+}
+tr:hover {background-color: blue;}
+.thinkin {
+  float: right;
+}
+.clearfix {
+  overflow: auto;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px gold;
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown {
+  color: gold; font-size: 24px
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(44,0,5,0.2);
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: black;
+}
+
+
+.catwave:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.catwave {
+  border: 10px solid #dfd;
+  border-radius: 4px;
+  padding: 5px;}
+
+.grumpcat {
+  border: 10px solid #dfd;
+  border-radius: 4px;
+  padding: 5px; float: right}
+
+  .snipercat {
+  border: 10px solid #dfd;
+  border-radius: 4px;
+  padding: 5px; float: left}
+
+  .gangstercat {
+    border: 10px solid #dfd;
+    border-radius: 4px;
+    padding: 5px; float: right}
+
+    .catthink {
+      border: 10px solid #dfd;
+      border-radius: 4px;
+      padding: 5px; float: left;}
+
+      
